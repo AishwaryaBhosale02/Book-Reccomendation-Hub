@@ -1,2 +1,2 @@
 # Book-Reccomendation-Hub
-Developed a book recommendation system that uses cosine similarity to provide users with personalized recommendations of  books based on their preferences
+ I Developed a book recommendation system using Flask, leveraging Pandas for data cleaning and preprocessing, and scikit-learn for feature extraction. The system employs cosine similarity with NumPy to measure and compare book attributes, creating a similarity matrix for recommendations. The recommendation process focuses on books rated by experienced users, providing personalized suggestions of  books.
